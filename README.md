@@ -7,4 +7,4 @@ I hope this helps you somehow. I am far from being an expert in any language i c
 
 I accept any kind of feedback and suggestions to make them better though! :)
 
-###### URI is developed by the University of Rhode Island Computer Science Department
+####### URI is developed by the University of Rhode Island Computer Science Department
